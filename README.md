@@ -58,11 +58,12 @@ A Python program to open a window where we can put a youtube video link and clic
 - Spyder is an open-source cross-platform IDE. The Python Spyder IDE is written completely in Python. It is designed by scientists and is exclusively for scientists, data analysts, and engineers. It is also known as the Scientific Python Development IDE and has a huge set of remarkable features.
 - How to start programming in Spyder IDE:-
    - Step1: Open Anaconda navigator and select spyder & click launch.
-   - Step2: Create a new folder and rename it.
-   - Step3: Go inside the folder and go into new options and select python 3.
-   - Step4: Name the python file.
-   - Step5: Type the code in the cell. And to run the code run arrow in above tool bar.
- 
+   - Step2: Create a new file using option file & create new project.
+   - Step3: write code 
+   - Step4: To run any file, you can select the Run option and click on run.
+   - Step5: Once executed, the output will be visible on the Console.
+   - Step6: Save the projet and it will be saved inside the project directory.
+   
  ## Modules & Packages:- 
 - Modules are nothing but a file (with .py extension) which we can import into a particular program
 - Group of modules(python files) is known as package 
