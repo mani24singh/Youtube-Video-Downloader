@@ -41,6 +41,11 @@ A Python program to open a window where we can put a youtube video link and clic
   - height 
 - All the details of creating a GUI using tkinter can be learned here [tkinter](https://www.geeksforgeeks.org/python-gui-tkinter/)
 
+# InstaLoader:
+- **Instaloader** is a tool to download pictures (or videos) along with their captions and other metadata from Instagram.
+- we can use multiple function available in instaloader mentioned here using command prompt [instaloader](https://instaloader.github.io/)
+
+
 ## Setting up path:
 ### How to install and write python codes?
 - Go to www.python.org
